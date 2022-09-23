@@ -1,7 +1,7 @@
 # Horiseon 
 ## Site Picture 
+![Site picture] (http://127.0.0.1:5500/index.html)
 
-![Site picture] ()
 ## Description
 This is a work to make a oage for Horiseon. This will go over the HTML and CSS that is put into to create a page where its easily usuable for any type.
 
