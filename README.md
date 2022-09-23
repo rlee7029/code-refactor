@@ -1,4 +1,7 @@
-# code-refactor 
+# Horiseon 
+## Site Picture 
+
+![Site picture] ()
 ## Description
 This is a work to make a oage for Horiseon. This will go over the HTML and CSS that is put into to create a page where its easily usuable for any type.
 
@@ -14,6 +17,14 @@ Div to Nav, section, footer, aside in HTML
 Make sure that the id was created so that link is usable. 
 Consodilate things taht is needed on CSS. 
 
+## Technologies Used
+- HTML- Used to crete elements
+- CSS- added style html elements on page
+- Git- source code
+-Github- repository that could be deployed to Github pages. 
+
+## Summary
+This application is a page where people could see the website of "Horiseon". They could direct their page with using directories. 
 ## Credits
 N/A
 
