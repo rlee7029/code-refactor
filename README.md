@@ -1,7 +1,7 @@
 # Horiseon 
 
 ## Site Picture
-![Site] (https://github.com/rlee7029/code-refactor/issues/1#issue-1383367643)
+![Site](./assets/images/img1.png)
 
 ## Description
 This is a work to make a oage for Horiseon. This will go over the HTML and CSS that is put into to create a page where its easily usuable for any type.
